@@ -6,7 +6,7 @@ A robust Flutter application designed to convert currencies using real-time exch
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| <!-- Insert Light Mode Screenshot Here --> <br> ![Light Mode]() | <!-- Insert Dark Mode Screenshot Here --> <br> ![Dark Mode]() |
+| <img width="402" src="https://github.com/user-attachments/assets/e5a33fa5-4c8c-4746-868e-53372923311e" /> | <img width="402" src="https://github.com/user-attachments/assets/211f0267-19b2-4730-b1a8-965b75b70518" /> |
 
 ## Features
 
